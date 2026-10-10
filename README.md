@@ -11,13 +11,13 @@ work and grid connection charges. Where applicable, it also considers subsidies,
 so users can see a more realistic upfront cost.
 
 
-2. Energy Yield Prediction
+**2. Energy Yield Prediction**
 The system estimates how much electricity the panels could produce using local sunlight data, typical sunny hours
 and temperature patterns. It also checks the roof's angle and direction, along with possible shade from trees or
 nearby buildings.
 
 
-4. Eco-Friendly
+**3. Eco-Friendly**
 Using solar power can reduce the amount of electricity needed from the local grid. This section estimates the related
 reduction in carbon dioxide emissions, based on how much electricity the solar system is expected to generate.
 To make the figures easier to understand, the report can compare the estimated savings with familiar examples, such
